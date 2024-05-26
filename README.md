@@ -35,9 +35,9 @@ This is a simple Node.js application for user authentication using JSON Web Toke
    Create a `.env` file in the root directory of the project and define the following variables:
 
    ```
-   PORT=3000
-   MONGODB_URI=mongodb://localhost:27017/userDB
-   JWT_SECRET_KEY=your_secret_key
+   PORT=3001
+   MONGODB_URI=mongodb+srv://reddymahereddy143:mahi1424@cluster0.aynufzf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+   JWT_SECRET_KEY=Mahe1424
    ```
 
    Replace `your_secret_key` with your preferred secret key for JWT token generation.
