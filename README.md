@@ -52,7 +52,7 @@ This is a simple Node.js application for user authentication using JSON Web Toke
 
 ### User Signup
 
-- **URL**: `/api/signup`
+- **URL**: `/user/signup`
 - **Method**: `POST`
 - **Body**:
 
