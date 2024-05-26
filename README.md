@@ -1,7 +1,3 @@
-Sure, here's a basic README file for the application:
-
----
-
 # User Authentication API
 
 This is a simple Node.js application for user authentication using JSON Web Tokens (JWT). It provides endpoints for user signup, login, and fetching user details.
